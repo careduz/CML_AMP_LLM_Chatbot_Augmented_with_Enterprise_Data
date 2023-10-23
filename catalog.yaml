@@ -1,7 +1,7 @@
 name: Ontario Lottery & Gaming - Forks
 
 entries:
-  - title: LLM Chatbot Augmented with Enterprise Data
+  - title: LLM Chatbot Augmented with Enterprise Data - OLG
     label: llm-chatbot
     short_description: |
       Build a Retrieval Augmented Generation (RAG) Question-Answer Large

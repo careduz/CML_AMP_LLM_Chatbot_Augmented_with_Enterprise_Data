@@ -26,5 +26,5 @@ entries:
       - Milvus
       - Transformers
       - NLP
-    git_url: "https://github.com/careduz/non_existent_url"
+    git_url: "https://google.com"
     is_prototype: true
